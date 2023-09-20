@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:18:34	56372/56372	---MCZ	200	added ('OK')	text/html	date:Wed,%2006%20Sep%202023%2010:35:57%20GMT	https://angular.hibootstrap.com/enuf/index-2	C:/My%20Web%20Sites/Apartment%20Rental%20Agency2/angular.hibootstrap.com/enuf/index-2.html	(from )
+12:18:35	179/179	---MC-	500	error ('Internal%20Server%20Error')	text/html	date:Wed,%2020%20Sep%202023%2006:18:37%20GMT	https://angular.hibootstrap.com/robots.txt		(from )
